@@ -7,6 +7,21 @@ Specifically optimized for HP EliteDesk 800 G4 and G5 DM 35W/65W models, this se
 
 To get started, check out my detailed guide on GitHub Pages: -> [The Perfect MacMini Hackintosh](https://cmalf.github.io/posts/The-perfect-macmini-HACKINTOSH/)
 
+## ⛩ Release Table Updates
+
+| UPDATES | DESC  |
+|---|---|
+| [Update OC 1.0.0 EFI R001](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Hackintosh) | Release EFI with OC 1.0.0 |
+| [RestrictEvents-1.1.4](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/RestrictEvents) | Try Sequoia Beta |
+| [Update OC 1.0.1 EFI R001](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/OC-1.0.1-EFI-R001) | Release EFI with OC 1.0.1 |
+| [Update OC 1.0.2 EFI R001](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/OC1.0.2-EFI-R001) | Release EFI with OC 1.0.2 |
+| [Sonoma14.7.1-Sequoia15.1](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sonoma14.7.1-Sequoia15.1) | Update available Sonoma 14.7.1 and Upgradeable to Sequoia 15.1 |
+| [Sequoia-15.1.1](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.1.1) | Update available Sequoia 15.1.1 |
+| [Update-OC1.0.3-EFI-OC-GUI](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/OC1.0.3-EFI-GUI) | UPDATE OC AND ADDING GUI OC |
+| [Sequoia-15.2-&-Update-OC-1.0.3](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.2) | Update Available Sequoia 15.2 & Update-OC-1.0.3 |
+| [Sequoia-15.3.2-&-Update-OC-1.0.4](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.3.2-OC-1.0.4) | Update Available Sequoia 15.3.2 & Update-OC-1.0.4 |
+| [Sequoia-15.5](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.5) | Update Available Sequoia 15.5_24F74 |
+
 ## 📝 My Hackmini with Sonoma 14.5
 <hr>
 <img src="/imgs/Screenshot 2024-08-03 at 07.41.49.png" width=600>
