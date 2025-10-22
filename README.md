@@ -5,7 +5,7 @@ This hackintosh configuration is designed to bring the best of both worlds: the 
 
 Specifically optimized for HP EliteDesk 800 G4 and G5 DM 35W/65W models, this setup can also be adapted to various Series 800 G4, G5, and SFF models with CoffeeLake (CFL) and CoffeeLake Refresh (CFLR) processors.
 
-To get started, check out my detailed guide on GitHub Pages: -> [The Perfect MacMini Hackintosh](https://cmalf.github.io/posts/The-perfect-macmini-HACKINTOSH/)
+To get started, check out my detailed guide on GitHub Pages: -> [The Perfect MacMini Hackintosh](https://cmalf.github.io/blog/the-perfect-macmini-hackintosh)
 
 ## ⛩ Release Table Updates
 
@@ -21,8 +21,8 @@ To get started, check out my detailed guide on GitHub Pages: -> [The Perfect Mac
 | [Sequoia-15.2-&-Update-OC-1.0.3](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.2) | Update Available Sequoia 15.2 & Update-OC-1.0.3 |
 | [Sequoia-15.3.2-&-Update-OC-1.0.4](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.3.2-OC-1.0.4) | Update Available Sequoia 15.3.2 & Update-OC-1.0.4 |
 | [Sequoia-15.5](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.5) | Update Available Sequoia 15.5_24F74 |
-| [Tahoe26](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Tahoe26) | Upgrade Available MacOS Tahoe 26.0_25A354 |
-Upgrade Available MacOS Tahoe 26.0
+| [Tahoe26 and 26.0.1](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Tahoe26) | Upgrade Available MacOS Tahoe 26.0_25A354 |
+
 ## 📝 My Hackmini with Sonoma 14.5
 <hr>
 <img src="/imgs/Screenshot 2024-08-03 at 07.41.49.png" width=600>
