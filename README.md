@@ -22,6 +22,7 @@ To get started, check out my detailed guide on GitHub Pages: -> [The Perfect Mac
 | [Sequoia-15.3.2-&-Update-OC-1.0.4](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.3.2-OC-1.0.4) | Update Available Sequoia 15.3.2 & Update-OC-1.0.4 |
 | [Sequoia-15.5](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Sequoia-15.5) | Update Available Sequoia 15.5_24F74 |
 | [Tahoe26 and 26.0.1](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Tahoe26) | Upgrade Available MacOS Tahoe 26.0_25A354 |
+| [Tahoe26.1](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Tahoe26.1) | Update Available MacOS Tahoe 26.1_25B78 |
 
 ## 📝 My Hackmini with Sonoma 14.5
 <hr>
