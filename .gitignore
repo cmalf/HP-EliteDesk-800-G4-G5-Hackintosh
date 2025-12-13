@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+
+# Env files
+.env
+.env.*.local
+
+# Editor/IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Test/coverage
+coverage/
