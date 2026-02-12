@@ -1,4 +1,9 @@
 # 👨🏻‍💻 HP-Elitdesk-800-G4-G5-Hackintosh
+<div align=center
+  
+![hackmini-](https://github.com/user-attachments/assets/680b0d93-a024-40f5-ba99-407cf1143add)
+<div align=left
+
 Unlock the Mac Experience on Your HP EliteDesk!
 
 This hackintosh configuration is designed to bring the best of both worlds: the power and reliability of your HP EliteDesk and the intuitive user experience of macOS.
@@ -25,43 +30,50 @@ To get started, check out my detailed guide on GitHub Pages: -> [The Perfect Mac
 | [Tahoe26.1 & Tahoe26.2](https://github.com/cmalf/HP-EliteDesk-800-G4-G5-Hackintosh/releases/tag/Tahoe26.1) | Update Available MacOS Tahoe 26.1_25B78 & Tahoe 26.2_25C56 |
 
 ## 📝 My Hackmini with Sonoma 14.5
-<hr>
-<img src="/imgs/Screenshot 2024-08-03 at 07.41.49.png" width=600>
-<br>
-
+<details>
+  <summary>Click to view</summary>
+  <img src="/imgs/Screenshot 2024-08-03 at 07.41.49.png" width=600 alt="General">
+</details>
 ## 📝 Update Sonoma 14.6
 
 - Smooth OTA update
 - If you get notif "fails bla bla bla"
   try to disable SBM `Secure Boot Model`
   if update successfully, you can change SBM to J174 or default.
-
+<details>
+  <summary>Click to view</summary>
 <img src="/imgs/Screenshot 2024-08-03 at 07.27.01.png" width=600>
-
+</details>
 ## 📝 Update OC 1.0.1 EFI R001
-
+<details>
+  <summary>Click to view</summary>
 <img src="/imgs/Screenshot 2024-08-21 at 18.06.31.png" width=600>
-
+</details>
 ## 📝 Update Sonoma 14.6.1
 
 - Smooth Update
 - SBM = Disabled
-  
+<details>
+  <summary>Click to view</summary>  
 <img src="/imgs/Screenshot 2024-09-06 at 13.08.58.png" width=600>
-
+</details>  
+<details>
+  <summary>Click to view</summary>
 <img src="/imgs/Screenshot 2024-09-06 at 13.49.59.png" width=600>
-
+</details>
 ## 📝 Update available Sonoma 14.7 and Upgradeable to Sequoia 15.0
-
+<details>
+  <summary>Click to view</summary>
 <img src="/imgs/Screenshot 2024-09-18 at 02.14.22.png" width=600>
-
+</details>
 ## 📝 Update Sonoma 14.7
 
 - Sonoma 14.7 upgrade applied without any issues.  This hack is working perfectly.
 - SBM Disabled
-  
+<details>
+  <summary>Click to view</summary>  
 <img src="/imgs/Screenshot 2024-09-18 at 21.42.14.png" width=600> 
-
+</details>
 ## 📝 Sequoia 15.0
 
 - Ethernet connectivity issue (Ethernet connection problem only on Remote Desktop)
