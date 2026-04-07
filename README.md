@@ -1,8 +1,8 @@
 # 👨🏻‍💻 HP-Elitdesk-800-G4-G5-Hackintosh
-<div align=center
+<!-- <div align=center
   
-![hackmini-](https://github.com/user-attachments/assets/680b0d93-a024-40f5-ba99-407cf1143add)
-<div align=left
+<!-- ![hackmini-](https://github.com/user-attachments/assets/680b0d93-a024-40f5-ba99-407cf1143add)
+<div align=left -->
 
 Unlock the Mac Experience on Your HP EliteDesk!
 
