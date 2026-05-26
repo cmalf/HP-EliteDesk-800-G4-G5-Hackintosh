@@ -28,8 +28,10 @@ This is a **DisplayPort-focused** baseline and should not be treated as a univer
 
 | Generation | Target systems | Recommended `AAPL,ig-platform-id` | Boot-args | Output | Status |
 |---|---|---|---|---|---|
-| Gen 8 | HP EliteDesk 800 G4/G5 35W/65W | `0000923E` | `keepsyms=1 igfxonln=1 igfxfw=2` | DP | Stable baseline |
+| Gen 8 | HP EliteDesk 800 G4/G5 35W/65W | `0000923E` | `keepsyms=1 igfxonln=1 igfxfw=2` | DP | Stable baseline **[Notes](#gen-8)**|
 | Gen 9 | HP EliteDesk 800 G4/G5 35W/65W | `07009B3E` | `keepsyms=1 igfxonln=1 igfxfw=2` | DP | Recommended from JimiZhou testing |
+
+
 
 ## DeviceProperties Path
 
@@ -168,6 +170,12 @@ This is the recommended baseline based on testing reported by **JimiZhou**, incl
 - This mapping is intended for **DisplayPort** setups.
 - All three connector types use `00080000`, which corresponds to DP in this baseline.
 - For this HP EliteDesk 800 family, the safest baseline is to split framebuffer recommendations by CPU generation rather than forcing a single shared platform-id.
+> [!TIP]
+> <a id="gen-8"></a>
+- For **Gen 8** users, `0000923E` with `keepsyms=1 igfxonln=1 igfxfw=2` remains the recommended stable starting point. <a id="gen-8"></a>
+- If a **Gen 8** system shows screen glitches, brief display corruption, or a blank screen when the DisplayPort cable is unplugged and reconnected, or if this behavior happens occasionally, try switching to `07009B3E` while keeping the same boot-args: `keepsyms=1 igfxonln=1 igfxfw=2`.
+- `07009B3E` is the more flexible option overall, because it can be used on both **Gen 8** and **Gen 9** systems. For **Gen 8**, keep `0000923E` as the stable default, but use `07009B3E` as the preferred fallback when the default framebuffer does not behave cleanly.
+
 
 ## Troubleshooting
 
